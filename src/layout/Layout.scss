@@ -1,0 +1,19 @@
+.layout {
+  height: 100vh;
+
+  .header {
+    background-color: white;
+    border-bottom: 1px #CCC solid;
+  }
+
+  .layout {
+      .sider {
+        background-color: white;
+      }
+
+    .content {
+      margin: 24px;
+      background-color: white;
+    }
+  }
+}
